@@ -1,1 +1,3 @@
-# agerman77 OpenAI
+# OpenAI.DotNet
+
+OpenAI Dotnet implementation
